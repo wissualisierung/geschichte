@@ -18,7 +18,7 @@ Interaktive Anwendung zur Arbeit mit Karikaturen:
 [Start der interaktiven Anwendung im Browser](https://wissualisierung.github.io/geschichte/methoden/karikatur/index.html)
 
 ![Banner des Dokuments](https://wissualisierung.github.io/geschichte/methoden/assets/lexikon.png)
-Download des zugehörigen PDFs ["Kleines Lexikon der Bildelemente"](https://wissualisierung.github.io/geschichte/methoden/download/lexikon-bildelemente.pdf)
+Download des zugehörigen PDFs ["Kleines Lexikon der Bildelemente"](https://wissualisierung.github.io/geschichte/methoden/download/lexikon-bildelemente-web.pdf)
 
 #### Sachtexte
 ![Screenshot der Anwendung](https://wissualisierung.github.io/geschichte/methoden/assets/sachtext.png)

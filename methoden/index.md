@@ -8,13 +8,13 @@ Aufgrund der besseren HTML5-Unterstützung empfiehlt sich für die angeführten 
 
 ### Erschließen von Material
 #### Bilder
-![Screenshot der Anwendung](https://wissualisierung.github.io/geschichte/methoden/assets/bild.png)
+[![Screenshot der Anwendung](https://wissualisierung.github.io/geschichte/methoden/assets/bild.png)](https://wissualisierung.github.io/geschichte/methoden/bild/index.html)
 Interaktive Anwendung zur Arbeit mit Bildern: 
 
 [Start der interaktiven Anwendung im Browser](https://wissualisierung.github.io/geschichte/methoden/bild/index.html)
 
 #### Karikaturen
-![Screenshot der Anwendung](https://wissualisierung.github.io/geschichte/methoden/assets/karikatur.png)
+[![Screenshot der Anwendung](https://wissualisierung.github.io/geschichte/methoden/assets/karikatur.png)](https://wissualisierung.github.io/geschichte/methoden/karikatur/index.html)
 Interaktive Anwendung zur Arbeit mit Karikaturen: 
 
 [Start der interaktiven Anwendung im Browser](https://wissualisierung.github.io/geschichte/methoden/karikatur/index.html)
@@ -23,7 +23,7 @@ Interaktive Anwendung zur Arbeit mit Karikaturen:
 Download des zugehörigen PDFs ["Kleines Lexikon der Bildelemente"](https://wissualisierung.github.io/geschichte/methoden/download/lexikon-bildelemente-web.pdf)
 
 #### Sachtexte
-![Screenshot der Anwendung](https://wissualisierung.github.io/geschichte/methoden/assets/sachtext.png)
+[![Screenshot der Anwendung](https://wissualisierung.github.io/geschichte/methoden/assets/sachtext.png)](https://wissualisierung.github.io/geschichte/methoden/sachtext/index.html)
 Interaktive Anwendung zur Arbeit mit Sachtexten: 
 
 [Start der interaktiven Anwendung im Browser](https://wissualisierung.github.io/geschichte/methoden/sachtext/index.html)

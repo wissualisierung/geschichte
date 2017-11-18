@@ -13,6 +13,12 @@ Interaktive Anwendung zur Arbeit mit Bildern:
 
 [Start der interaktiven Anwendung im Browser](https://wissualisierung.github.io/geschichte/methoden/bild/index.html)
 
+#### Fotografien
+[![Screenshot der Anwendung](https://wissualisierung.github.io/geschichte/methoden/assets/foto.png)](https://wissualisierung.github.io/geschichte/methoden/foto/index.html)
+Interaktive Anwendung zur Arbeit mit Fotografien: 
+
+[Start der interaktiven Anwendung im Browser](https://wissualisierung.github.io/geschichte/methoden/foto/index.html)
+
 #### Karikaturen
 [![Screenshot der Anwendung](https://wissualisierung.github.io/geschichte/methoden/assets/karikatur.png)](https://wissualisierung.github.io/geschichte/methoden/karikatur/index.html)
 Interaktive Anwendung zur Arbeit mit Karikaturen: 

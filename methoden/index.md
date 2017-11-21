@@ -9,7 +9,7 @@ Aufgrund der besseren HTML5-Unterstützung empfiehlt sich für die angeführten 
 ### Erschließen von Material
 #### Bilder
 [![Screenshot der Anwendung](https://wissualisierung.github.io/geschichte/methoden/assets/bild.png)](https://wissualisierung.github.io/geschichte/methoden/bild/index.html)
-Interaktive Anwendung zur Arbeit mit Bildern: 
+Interaktive Anwendung zur Arbeit mit Bildern (ausführliche Version): 
 
 [Start der interaktiven Anwendung im Browser](https://wissualisierung.github.io/geschichte/methoden/bild/index.html)
 
